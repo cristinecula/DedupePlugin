@@ -1,0 +1,19 @@
+{
+  "name": "dedupe-plugin",
+  "version": "1.0.0",
+  "description": "Modified version of Webpack's DedupePlugin. Returns the same exports instance for deduped modules. Allows Angular2 dependency injection to correctly match tokens.",
+  "main": "DedupePlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristinecula/DedupePlugin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristinecula/DedupePlugin/issues"
+  },
+  "homepage": "https://github.com/cristinecula/DedupePlugin#readme"
+}
