@@ -2,7 +2,7 @@
 	MIT License http://www.opensource.org/licenses/mit-license.php
 	Author Tobias Koppers @sokra
 */
-var ConcatSource = require("webpack/node_modules/webpack-core/lib/ConcatSource");
+var ConcatSource = require("webpack-core/lib/ConcatSource");
 var TemplateArgumentDependency = require("webpack/lib/dependencies/TemplateArgumentDependency");
 
 function DedupePlugin() {}
